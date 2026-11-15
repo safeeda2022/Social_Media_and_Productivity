@@ -62,4 +62,16 @@ The project will follow these major stages:
 This project aims to explore how students' social media habits relate to their productivity by analyzing digital usage patterns, academic routines, and lifestyle behaviors.
 Through exploratory data analysis, statistical techniques, and data visualization, the study will identify important relationships between social media consumption, concentration, sleep, distraction, and productivity
 
+## Project phases
 
+### Phase 1
+In phase 1 the data is found , SRS is developed and initial findings are observed through jupyter notebook.
+
+### Phase 2
+In phase 2 data wrangling is performed for more accurate analysis.
+- Number of null values in each field is found. Every field consisted null values.
+- No duplicates where found
+- From the statistical details, three columns where observed to have unrealistic values and outliers. Its found through IQR method and treated with cap values.
+- The null values in each column is imputed appropriately using the statistical measures mean, median and mode.
+- The fields which takes values as integers are converted from float to int and score columns are rounded to 2 decimals.
+- A cleaned dataset is obtained by retaining all the columns.
