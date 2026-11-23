@@ -53,8 +53,6 @@ The project will follow these major stages:
 •	Create charts to identify trends, comparisons, distributions, and relationships.
 #### Correlation Analysis
 •	Examine relationships between social media habits, lifestyle factors, distraction, focus, and productivity.
-#### Statistical Analysis
-•	Apply appropriate statistical tests and regression analysis to investigate the research hypotheses.
 #### Interpretation and Conclusion
 •	Summarize findings and provide recommendations for improving students' productivity.
 
@@ -75,3 +73,14 @@ In phase 2 data wrangling is performed for more accurate analysis.
 - The null values in each column is imputed appropriately using the statistical measures mean, median and mode.
 - The fields which takes values as integers are converted from float to int and score columns are rounded to 2 decimals.
 - A cleaned dataset is obtained by retaining all the columns.
+
+### Phase 3
+In phase 3 Exploratory Data Analysis is performed.
+- Statistical measures are evaluated for observations.
+- Univariate analysis is carried out on fields including age, notifications per day, various hours spent, addiction level and scores.
+- Correlation analysis is carried out to establish various relationships among social media habits, lifestyle factors, distraction, focus, and productivity.
+- Data visualisation is carried out appropriately.
+- Final observations are noted.
+
+### Phase 4
+- Documentation of the project.
