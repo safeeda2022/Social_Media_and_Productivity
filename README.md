@@ -115,5 +115,39 @@ In phase 3 Exploratory Data Analysis is performed.
 ### Phase 4
 - Documentation of the project.
 
+### Observations
+Average daily screen time is greater than average study hours.
+
+Average distraction score out of 10 is 5.45 which is greater than 50% whereas average productivity score out of 100 is 37.92 which is 38% only.
+
+More than 50% has night usage and medium addiction level.
+
+As the number of notifications per day increases, decrease in focus score is visible.
+
+Increase in addiction decreases the average productivity score.
+
+There is much differnce in average productivity score as addiction level changes. The mean productivity score for high addiction is 22.36 whereas for low addiction is 56.
+
+Productivity score shows large decline among students who use phone during night. Average productivity score of those who has no night usage is 48.01 whereas with usage is 30.1.
+
+Distraction score is higher for night usage.
+
+Those who has night usage is found to take more breaks during day compared to those who dont use phone during night.
+
+More number of students who take coffee break are from those who use phone during night.
+
+Productivity score is negatively correlated with all field related to phone usage hours.
+
+Students with high level of addiction is seen to have more breaks and less productivity. Even with gretaer number of breaks, low addiction level is seen to not compromise productivity.
+
+As social media hours increase and creates addiction, productivity score declines.
+
+With the same hours spent for learning , students in high level of addiction show lesser productivity. It implies how addiction can highly influence their productivity even with equal efforts.
+
+High addiction thus makes students incapable of achieving their true potential.
+
+### Suggestions
+The project has emphasized how important it is to regulate the screen time in such a way that it will not inhibit the growth of productivity. The students should be made aware how much addiction can influence their whole lifestyle. In this digital era its not possible to stay away from the social media and screen time , but its crucial to maintain time limit that will not make anyone into addiction. Thus a balanced use of screen is essential to maintain ahealthy lifestyle.
+
 ## Conclusion
-This project aims to explore how students' social media habits relate to their productivity by analyzing digital usage patterns, academic routines, and lifestyle behaviors.Through exploratory data analysis, statistical techniques, and data visualization, the study will identify important relationships between social media consumption, concentration, sleep, distraction, and productivity.
+This project was aimed to explore how students' social media habits relate to their productivity by analyzing digital usage patterns, academic routines, and lifestyle behaviors.Through exploratory data analysis, statistical techniques, and data visualization, the study identified important relationships between social media consumption, concentration, sleep, distraction, and productivity.
