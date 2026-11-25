@@ -56,9 +56,39 @@ The project will follow these major stages:
 #### Interpretation and Conclusion
 •	Summarize findings and provide recommendations for improving students' productivity.
 
-## Conclusion
-This project aims to explore how students' social media habits relate to their productivity by analyzing digital usage patterns, academic routines, and lifestyle behaviors.
-Through exploratory data analysis, statistical techniques, and data visualization, the study will identify important relationships between social media consumption, concentration, sleep, distraction, and productivity
+### Key Variables for Analysis
+The dataset can be divided into four major categories:
+A. Demographic Information
+- Age
+
+B. Digital and Social Media Habits
+-	Daily screen time
+-	Social media hours
+- Notifications per day
+- Night usage
+-	Addiction level
+
+C. Lifestyle and Study Habits
+-	Study hours
+-	Sleep hours
+-	Coffee per day
+- Breaks per day
+
+D. Performance and Behavioral Indicators
+-	Focus score
+-	Distraction score
+-	Productivity score
+
+#### Expected Outcomes
+At the end of the project, the analysis is expected to provide insights into:
+-	Students' average daily social media usage.
+-	The relationship between screen time and academic study habits.
+-	Whether students with higher social media usage tend to have lower productivity.
+-	The possible effects of notifications on focus and distraction.
+-	The relationship between nighttime usage and sleep duration.
+-	Whether higher addiction levels are associated with lower productivity.
+-	Which lifestyle and behavioral variables are most strongly associated with productivity.
+
 
 ## Project phases
 
@@ -77,10 +107,13 @@ In phase 2 data wrangling is performed for more accurate analysis.
 ### Phase 3
 In phase 3 Exploratory Data Analysis is performed.
 - Statistical measures are evaluated for observations.
-- Univariate analysis is carried out on fields including age, notifications per day, various hours spent, addiction level and scores.
-- Correlation analysis is carried out to establish various relationships among social media habits, lifestyle factors, distraction, focus, and productivity.
+- Univariate analysis done on fields including age, notifications per day, various hours spent, addiction level and scores to understand the distribution.
+- Correlation analysis is done to establish various relationships among social media habits, lifestyle factors, distraction, focus, and productivity.
 - Data visualisation is carried out appropriately.
 - Final observations are noted.
 
 ### Phase 4
 - Documentation of the project.
+
+## Conclusion
+This project aims to explore how students' social media habits relate to their productivity by analyzing digital usage patterns, academic routines, and lifestyle behaviors.Through exploratory data analysis, statistical techniques, and data visualization, the study will identify important relationships between social media consumption, concentration, sleep, distraction, and productivity.
